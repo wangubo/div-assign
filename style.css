@@ -1,0 +1,44 @@
+.us{
+    background-color: blueviolet;
+}
+.ul{
+    cursor: pointer;
+    text-decoration: none;
+    
+}
+.heading{
+    background-color: white;
+    text-align: center;
+    color: blueviolet;
+}
+.paragrap{
+background-color: rgb(0, 0, 50,0.5);
+float: left;
+margin-left: 20px;
+top: 1000%;
+justify-content: 0.3rem;
+word-spacing: normal;
+color: blue;
+
+}
+body{
+    background-image: url(bhws.png);
+    background-color: bisque;
+    background-size: cover ;
+    background-image: f;
+}
+ol{
+    text-decoration: none;
+}
+.main{
+    width: 100vw;
+    height: 100vh;
+}
+.main2{
+    width: 100vw;
+    height: 100vh;
+    
+}
+.cataloge{
+    float: left;
+}
